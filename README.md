@@ -75,7 +75,7 @@ insect-species-identifier/
 └── README.md                        # Project documentation
 
 📷 Sample Image
-To help you get started, we've included some example insect images in the `sample_images/` folder. You can use these to test the app and see how well it performs!
+To help you get started, we've included some example insect images in the `sample_images` folder. You can use these to test the app and see how well it performs!
 
 👩‍💻 Authors
 Pragya Srivastava
